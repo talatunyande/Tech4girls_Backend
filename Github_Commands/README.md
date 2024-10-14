@@ -1,0 +1,1 @@
+Home directory is a storage folder that contains the user's personal files whiles root directory provides a centralized location for system administrators to manage and organize critical system files
