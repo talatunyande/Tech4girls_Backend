@@ -1,5 +1,0 @@
-cd Github_Commands
-mkdir Backend_Projects  
-cd Backend_Projects 
-mkdir ProjectA
-mkdir ProjectB 

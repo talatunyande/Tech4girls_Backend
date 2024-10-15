@@ -1,4 +1,0 @@
-Branching in git are separate working environment where you can make changes to the code without affecting the main codebase .
-Branching allows multiple developers to work on different features 
-changes made in one branch do not have affect on the others . 
-it help in collaborating by making it easier to divide work .

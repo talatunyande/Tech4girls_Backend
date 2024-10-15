@@ -1,9 +1,0 @@
-file ownership is the level of access or who can access a file
-There  are three types of people who can access a file :owner ,group , other 
-owner is the person who owns the file 
-group ::group of people who may share certain privillages on the file or directory
-Others :all other users in the system 
-file modes (permissionns)
-Read (r) it allows you to read the content of a file or directory
-Write (w) :it alows to modify the content of a file
-Execute :(x) it allows to execute a file incase it need to be executed

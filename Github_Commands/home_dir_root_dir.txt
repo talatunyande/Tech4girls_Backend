@@ -1,1 +1,0 @@
-home directory is a storage folder that contains the uers's personal files while root directory  centralised location for system administrators to manage and organize critical system files

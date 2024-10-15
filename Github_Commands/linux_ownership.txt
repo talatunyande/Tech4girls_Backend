@@ -1,3 +1,0 @@
-Owner (user)
-group
-others 

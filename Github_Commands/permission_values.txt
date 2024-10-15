@@ -1,7 +1,0 @@
-Read (r) =  4
-Write (w) = 2
-execute (x) = 1
-rwx =7
-rw = 6
-r-x = 4 +1 = 5
-r-- = 4

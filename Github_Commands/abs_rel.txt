@@ -1,1 +1,0 @@
-Absolut path is a full to  a file or folder ,starting from the rrot directory of your computer and Relative path is a file or directory Relative to the current working directory
