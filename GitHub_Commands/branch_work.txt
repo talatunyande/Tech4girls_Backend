@@ -1,0 +1,3 @@
+git branch Talatu_branch : creating a new branch
+git checkout Talatu_branch "switching from main branch to Talatu_branch
+git push origin Talatu_branch : publishing the branch

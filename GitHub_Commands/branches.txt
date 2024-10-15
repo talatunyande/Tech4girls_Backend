@@ -1,0 +1,2 @@
+git pull is used to used to update the local version of a repository from a remote
+It used when you want to fetch and download content from a remote repository and immediately update the local repositorynto match that content
