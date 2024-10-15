@@ -1,2 +1,2 @@
-git pull is used to update a local version of a repository from a remote.
-git pull commands is used when there are no uncommitted files and want to copy latest changes from a remote repository directory in to your working directory  
+git pull is used to used to update the local version of a repository from a remote
+It used when you want to fetch and download content from a remote repository and immediately update the local repositorynto match that content
