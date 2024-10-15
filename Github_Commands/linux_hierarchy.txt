@@ -1,0 +1,7 @@
+/bin
+/boot
+/etc
+/tmp
+/usr
+/bash
+/dev
