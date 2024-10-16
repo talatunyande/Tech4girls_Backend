@@ -1,0 +1,4 @@
+branching is a sepate line of development that doesn't interfere with the main codebase
+It helps teams create branches for specific features ,reviewed before they are merged 
+prevention of conflict due to fixing bug on  branches
+it allows multiple developers at the same time as a result of working on branches
