@@ -1,0 +1,4 @@
+the first character indicates the type rw-r--r :means a regular file permissions 
+r-w means the owner can read and write
+the second r-- means the group has only read permissioons
+and 1 represent the others
