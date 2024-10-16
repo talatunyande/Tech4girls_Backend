@@ -1,0 +1,11 @@
+file ownership refers to the level of access to a file 
+Owner : The user who owns the file 
+Group : A group of users who share privileges on a file 
+Others "All other users in the system 
+Files modes :Read (r),write (w)and execute(x)
+Read (r) :The ability to read the content of a file 
+write (w): The ability to modify the content of a file
+execute: the ability to run a file incase it a file that need to be executed
+owner =rwx
+group =r-x
+others = r--
