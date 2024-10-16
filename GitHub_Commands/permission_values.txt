@@ -1,0 +1,7 @@
+read (r) =4
+write (w)=2
+execute (x)=1
+rwx = 4 +2 +1 = 7
+rw = 4+2 =6
+r-x = 4 +1 = 5
+r-- = 4
