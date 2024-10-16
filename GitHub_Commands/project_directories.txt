@@ -1,0 +1,7 @@
+cd GitHub_Commands 
+mkdir Backend_Projects
+cd Backend_Projects
+mkdir ProjectA
+ls
+mkdir ProjectB
+
