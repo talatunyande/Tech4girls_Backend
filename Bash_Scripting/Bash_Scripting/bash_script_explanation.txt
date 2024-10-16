@@ -1,0 +1,4 @@
+Bash script is a series of commands saved in a file and can be executed to achieve a desired result
+#!/bin/Bash
+# comment 
+then what you want it to perform 
