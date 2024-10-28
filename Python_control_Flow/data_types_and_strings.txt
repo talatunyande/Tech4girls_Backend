@@ -1,0 +1,33 @@
+#!/bin/bash
+#integers
+int which means integers accepts numbers
+#float
+float are variables which contains the numbers with . Example : 0.0
+#string
+str meaning strings are variables with the sign '' and print out words without any changes
+#list
+list contains members of items that can be modified or changed
+#tuple
+tuple are data types that contains items that can not be changed or modified
+#set
+set are used to store multiple items in a single variable
+
+#upper
+member=Talatu
+print(member.upper())
+
+#lower
+print(member.lower())
+
+#replace
+print(member.replace())
+
+#split
+print (member.split())
+
+#join
+print(member.join())
+
+#find
+print(member.find ())
+
