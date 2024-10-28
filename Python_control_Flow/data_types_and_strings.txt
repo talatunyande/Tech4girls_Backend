@@ -30,4 +30,3 @@ print(member.join())
 
 #find
 print(member.find ())
-
