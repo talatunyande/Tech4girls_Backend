@@ -1,0 +1,13 @@
+Object-Oriented Programming is a programming paradign based on the concept "Object".
+
+Encapsulation:is the practice of bundling data and methods that operate on that data into single unit,or class
+
+Abstraction:focuses on hiding unnecessary details while exposing only the essential features of an object 
+
+Inheritance:Allows one class (child) to acquire  the properties and behaviours of another class(parent).
+
+Polymorphism:Enables objects to be treated as intances of their parent class while allowing behaviour to be customized in child classes.
+
+  Benefits of OOP in Software Development 
+  it makes it easy to debug  and understand  code 
+  it reduces developer time and can be reused accross projects.
